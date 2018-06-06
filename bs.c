@@ -5,7 +5,8 @@
 int main()
 {
 	float a,b,c,e=.0001;
-	printf("Enter the value of A & B : ");
+	printf(".........................Bisection Method..................");	
+        printf("Enter the value of A & B : ");
 	scanf("%f%f",&a,&b);
 	do
 	{
